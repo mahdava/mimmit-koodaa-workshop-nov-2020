@@ -33,8 +33,4 @@ font-size: 2rem;
 border: 1px solid palevioletred;
 ```
 
-Assignment #3: Make the submit `<button>` bigger and make the cursor look like a hand pointer when you hover on it; select the button in a way that if the form had more than one button, only the submit button would be affected
-
-```
-
-```
+Assignment #3: Make the submit `<button>` bigger and make the cursor look like a hand pointer when you hover on it; select the button in a way that if the form had more than one button, only the submit button would be affected.
