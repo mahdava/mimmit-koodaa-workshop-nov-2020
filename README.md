@@ -76,4 +76,4 @@ Assignment #3: Make the submit `<button>` bigger and make the cursor look like a
 
 ## JavaScript Exercises
 
-For the JavaScript exercises please refer to the folder called `JavaScript_Exercises` and open the file named `exercises.js`.
+For the JavaScript exercises please refer to the file named `javascript_exercises.js`.
