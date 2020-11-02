@@ -1,8 +1,8 @@
 # Mimmit Koodaa Workshop 2020
 
-Repository for the workshop between Mimmit Koodaa and Futurice. Work inspired from Juha-Matti "Juhis" Santala (@Hamatti)
+Repository for the workshop between Mimmit Koodaa and Futurice. Work inspired from Juha-Matti "Juhis" Santala (@Hamatti).
 
-Be sure to check the [Search UI for Pokémon TCG Google Slides](https://bit.ly/search-ui-pokemon) that go along with this repository.
+Be sure to check the [Search UI for Pokémon TCG Google Slides](https://bit.ly/mimmit-koodaa-2020) that go along with this repository.
 
 ## HTML Exercises
 
