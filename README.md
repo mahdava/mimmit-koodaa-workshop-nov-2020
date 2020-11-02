@@ -11,10 +11,10 @@ With the help of the [HTML learning resources of w3schools](https://www.w3school
 Note: you don't have to complete all the assignments.
 
 Assignment #0:
-Create a comment somewhere inside the `<body>` tag.
+Create a comment somewhere inside the `<section id="exercises">` tag using HTML comments, e.g. `<!-- your comment -->`.
 
 Assignment #1:
-Add this image `https://bit.ly/futupink-yes` somewhere inside the `<body>` tag.
+Add this image `https://bit.ly/futupink-yes` somewhere inside the `<section id="exercises">` tag.
 
 Assignment #2:
 Create a link `<a>` to your favorite website.
@@ -37,6 +37,24 @@ Just play around with the existing CSS styles; have fun and ask questions to you
 
 --
 
+Add the following snippet of code somewhere inside the `<section id="exercises">` tag.
+
+```
+<form>
+    <label for="keyword">Pokémon name:</label>
+    <input
+        type="text"
+        name="search"
+        id="keyword"
+        aria-describedby="keyword-help"
+    />
+    <span id="keyword-help">
+        e.g. <em>Bulbasaur</em> (Enter at least three letters)
+    </span>
+    <button type="submit">Search</button>
+</form>
+```
+
 The form looks pretty ugly and tiny, doesn't it? Shall we make it more pretty and accessible?
 
 Assignment #1: Create a selector for the `<label>` element and add the following properties in its code block.
@@ -58,4 +76,4 @@ Assignment #3: Make the submit `<button>` bigger and make the cursor look like a
 
 ## JavaScript Exercises
 
-For the JavaScript exercises please refer to the folder called `JavaScript Exercises` and open the file named `exercises.js`.
+For the JavaScript exercises please refer to the folder called `JavaScript_Exercises` and open the file named `exercises.js`.
