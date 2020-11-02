@@ -69,4 +69,4 @@ const searchCards = (event) => {
   }
 };
 
-//if (searchButton) searchButton.addEventListener("click", searchCards);
+if (searchButton) searchButton.addEventListener("click", searchCards);
