@@ -57,13 +57,15 @@ Add the following snippet of code somewhere inside the `<section id="exercises">
 
 The form looks pretty ugly and tiny, doesn't it? Shall we make it more pretty and accessible?
 
-Assignment #1: Create a selector for the `<label>` element and add the following properties in its code block.
+Assignment #1:
+Create a selector for the `<label>` element and add the following properties in its code block.
 
 ```css
 font-weight: bold;
 ```
 
-Assignment #2: Create a selector for the form `<input>` element and assign the following properties inside its code blocks.
+Assignment #2:
+Create a selector for the form `<input>` element and assign the following properties inside its code block.
 
 ```
 min-width: 70%;
@@ -72,7 +74,8 @@ font-size: 2rem;
 border: 1px solid palevioletred;
 ```
 
-Assignment #3: Make the submit `<button>` bigger and make the cursor look like a hand pointer when you hover on it; select the button in a way that if the form had more than one button, only the submit button would be affected
+Assignment #3:
+Make the submit `<button>` bigger and make the cursor look like a hand pointer when you hover on it; select the button in a way that if the form had more than one button, only the submit button would be affected
 
 ## JavaScript Exercises
 
