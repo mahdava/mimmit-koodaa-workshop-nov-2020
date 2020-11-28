@@ -78,8 +78,6 @@ const searchCards = (event) => {
           // add the message to the results-outcome div
           resultsOutcome.append(noCardsMessage);
         }
-
-        resultsSection.classList.remove("hidden");
       });
   } else {
     // Create a container for the message that will warn the user that at least three characters are needed to start a search
